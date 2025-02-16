@@ -1,0 +1,5 @@
+-- hello paster pidr
+-- пастерок не заглядывай пидр
+local function print(text)
+   player:Kick()
+end
